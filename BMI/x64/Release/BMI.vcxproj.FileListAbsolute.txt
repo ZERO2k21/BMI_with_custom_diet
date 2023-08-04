@@ -1,0 +1,5 @@
+C:\Users\chris\OneDrive\Desktop\BMI\x64\Release\BMI.vcxproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\BMI\x64\Release\BMI.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\chris\OneDrive\Desktop\BMI\x64\Release\BMI.MyForm.resources
+C:\Users\chris\OneDrive\Desktop\BMI\x64\Release\BMI.vcxproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Desktop\BMI\x64\Release\BMI.exe
